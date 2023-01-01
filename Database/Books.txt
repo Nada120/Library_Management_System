@@ -1,0 +1,12 @@
+100,Beginning C++ Game Programming,Learn to program with C++ by building fun games,John Horton,true
+101,Cracking the Coding Interview,Programming Questions and Solutions,Gayle Laakmann McDowell,true
+102,Clean Code,,A Handbook of Agile Software Craftsmanship,Robert Martin
+103,PHP & MySQL,Server–side Web Developmen,Michael J Duckett,false
+104,Java For Dummies,Reusable code with the straight forward tutorials,Barry Burd,false
+105,Learning Java by Building Android Games,Learn Java and Android from scratch by building five exciting games,ohn Horton,false
+106,hello,programing language,dr.hort,true
+107,summer work,work station,barry,false
+108,java,practice problems,Michael,false
+109,Create Articles,how to write correct articles,James Jack,false
+110,programming,c++ java,Dr john,false
+111,java programming,java pracite,Dr.Mask,false
