@@ -1,4 +1,4 @@
-# Library_Management_System
+# Library_Management_System :books  
 It is a project was created by using JAVA language  
 
 ## I Used Files us Database  
@@ -7,9 +7,9 @@ There is 3 files:
 2) students data
 3) librarian data  
 
-## In the src folder there are 3 package:  
+## In the src folder there are 3 packages:  
 1) 'classes' contains the class of student, librarian, books.  
-2) 'filesData' contains the 3 files that works as 'Database'.  
+2) 'filesData' contains the 3 files that works as "Database".  
 3) 'gui' contains the gui code of the screens.  
 
 ## The GUI Resualt:  
